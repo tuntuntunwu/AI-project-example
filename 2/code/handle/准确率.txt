@@ -1,0 +1,79 @@
+01
+200態
+train set's error rate: 20.30
+test set's error rate: 15.87
+400態
+train set's error rate: 19.54
+test set's error rate: 11.90
+
+02
+200態
+train set's error rate: 12.34
+test set's error rate: 36.28
+400態
+train set's error rate: 10.69
+test set's error rate: 28.31
+
+03
+200態
+train set's error rate: 15.10
+test set's error rate: 41.61
+400態
+train set's error rate: 14.18
+test set's error rate: 34.10
+
+04
+200態
+train set's error rate: 5.39
+test set's error rate: 28.30
+400態
+train set's error rate: 2.53
+test set's error rate: 29.24
+
+05
+200態
+train set's error rate: 8.92
+test set's error rate: 34.14
+400態
+train set's error rate: 7.06
+test set's error rate: 28.04
+
+06
+200態
+train set's error rate: 17.50
+test set's error rate: 27.58
+400態
+train set's error rate: 13.94
+test set's error rate: 24.13
+
+07
+200態
+train set's error rate: 2.05
+test set's error rate: 13.55
+400態
+train set's error rate: 2.73
+test set's error rate: 25.42
+
+08
+200態
+train set's error rate: 7.97
+test set's error rate: 42.85
+400態
+train set's error rate: 6.38
+test set's error rate: 34.28
+
+09
+200態
+train set's error rate: 1.26
+test set's error rate: 16.27
+400態
+train set's error rate: 0.0
+test set's error rate: 18.60
+
+10
+200態
+train set's error rate: 6.30
+test set's error rate: 26.98
+400態
+train set's error rate: 5.04
+test set's error rate: 30.15

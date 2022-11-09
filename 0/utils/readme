@@ -1,0 +1,2 @@
+pip install pypinyin,dearpygui
+sudo apt install libpython3.8
